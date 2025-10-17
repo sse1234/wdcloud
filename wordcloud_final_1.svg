@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="794"
+   height="1123"
+   version="1.1"
+   id="svg10"
+   sodipodi:docname="wordcloud_final_1.svg"
+   inkscape:version="1.4.2 (ebf0e940, 2025-05-08)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs10">
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Roughen"
+       id="filter315"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
+      <feTurbulence
+         type="fractalNoise"
+         numOctaves="2"
+         seed="230"
+         baseFrequency="0.001 0.287596"
+         result="turbulence"
+         id="feTurbulence315" />
+      <feDisplacementMap
+         in="SourceGraphic"
+         in2="turbulence"
+         scale="25.228"
+         yChannelSelector="G"
+         xChannelSelector="R"
+         id="feDisplacementMap315" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Roughen"
+       id="filter314"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
+      <feTurbulence
+         type="fractalNoise"
+         numOctaves="1"
+         seed="27"
+         baseFrequency="0.574191 0.001"
+         result="turbulence"
+         id="feTurbulence314" />
+      <feDisplacementMap
+         in="SourceGraphic"
+         in2="turbulence"
+         scale="19.1489"
+         yChannelSelector="G"
+         xChannelSelector="R"
+         id="feDisplacementMap314" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="namedview10"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="0.6674069"
+     inkscape:cx="425.52751"
+     inkscape:cy="627.80292"
+     inkscape:window-width="1352"
+     inkscape:window-height="953"
+     inkscape:window-x="239"
+     inkscape:window-y="34"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg10" />
+  <style
+     id="style1">text{font-family:'Arial';font-weight:normal;font-style:normal;}</style>
+  <path
+     id="path1"
+     style="fill:#368314;fill-opacity:0.55490196;stroke:none;stroke-width:0.332165;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter314)"
+     d="M 100.70468,97.399623 C 95.565862,117.4474 90.437752,137.6383 88.733286,158.28035 c -1.318485,14.26207 -1.893717,28.58291 -3.235154,42.8423 -0.475273,3.67848 -1.738765,7.25808 -1.689935,10.95665 0.352229,4.14507 3.449414,7.57102 7.02567,9.41526 2.98601,1.55068 6.18897,2.83132 9.246493,4.33237 5.31373,2.46661 10.62439,4.93856 15.93291,7.41644 4.67837,-10.81161 6.64085,-22.72182 6.87283,-34.43974 0.10711,-8.58221 0.0994,-17.16881 0.54027,-25.74294 0.73879,-15.97859 2.60748,-31.96581 6.6454,-47.46776 1.69893,-6.80816 3.56848,-13.57319 5.34775,-20.36128 -10.94075,-5.08789 -21.88151,-10.175777 -32.82226,-15.263667 -0.63086,2.47721 -1.26172,4.95442 -1.89258,7.43164 z"
+     transform="matrix(3.7795276,0,0,3.7795276,13.285625,-1.2586344)" />
+  <path
+     id="path41"
+     style="fill:#6f66ad;fill-opacity:0.52941179;stroke:none;stroke-width:1.02477;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter315)"
+     d="m 186.60028,117.0656 c -25.43415,5.57669 -50.8644,11.92438 -76.98368,13.48633 -14.76047,0.86299 -29.680766,-0.003 -44.068491,-3.44423 -6.929884,-1.58123 -13.753021,-3.63608 -20.790913,-4.75109 -4.269009,0.0562 -7.866735,3.57064 -8.525424,7.4629 -2.704561,10.60751 -5.591549,21.17187 -8.379498,31.75976 -0.568283,0.85872 0.04048,2.30768 1.229076,2.13281 24.334965,-1.82524 48.884196,-0.73085 73.15313,-3.61161 6.41416,-0.7898 12.77334,-1.93815 19.16507,-2.87593 19.23563,-2.97395 38.50462,-5.78824 57.75434,-8.69996 2.78067,-10.55163 5.55664,-21.10438 8.33633,-31.65625 -0.29665,0.0658 -0.59329,0.13151 -0.88994,0.19727 z"
+     transform="matrix(3.7795276,0,0,3.7795276,13.285625,-1.2586344)" />
+  <text
+     transform="translate(135,561)"
+     font-size="91"
+     style="fill:#387c24;fill-opacity:1"
+     id="text1">Seelsorge</text>
+  <text
+     transform="translate(452,825) rotate(-90)"
+     font-size="91"
+     style="fill:rgb(216, 226, 25)"
+     id="text2">Gebet</text>
+  <text
+     transform="translate(541,529)"
+     font-size="71"
+     style="fill:#6b6bee;fill-opacity:1"
+     id="text3">Hilfe</text>
+  <text
+     transform="translate(119,594)"
+     font-size="42"
+     style="fill:rgb(71, 14, 97)"
+     id="text4">Unterstützung</text>
+  <text
+     transform="translate(383,837) rotate(-90)"
+     font-size="42"
+     style="fill:#297a3b;fill-opacity:1"
+     id="text5">Geschwister</text>
+  <text
+     transform="translate(356,500)"
+     font-size="42"
+     style="fill:rgb(66, 64, 134)"
+     id="text6">Tragen</text>
+  <text
+     transform="translate(387,414)"
+     font-size="42"
+     style="fill:#c0fc6a;fill-opacity:1"
+     id="text7">Last</text>
+  <text
+     transform="translate(545,550)"
+     font-size="26"
+     style="fill:rgb(71, 44, 122)"
+     id="text8">Anfechtung</text>
+  <text
+     transform="translate(402,452)"
+     font-size="26"
+     style="fill:#256e78;fill-opacity:1"
+     id="text9">Kämpfe</text>
+  <text
+     transform="translate(116,614)"
+     font-size="26"
+     style="fill:rgb(197, 224, 33)"
+     id="text10">Kreuz</text>
+</svg>
