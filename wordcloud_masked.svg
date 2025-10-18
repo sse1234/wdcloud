@@ -1,16 +1,17 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="794" height="1123">
-<style>text{font-family:'Andale Mono';font-weight:normal;font-style:normal;}</style>
-<text transform="translate(254,583)" font-size="83" style="fill:rgb(33, 143, 141)">Gebet</text>
-<text transform="translate(428,837) rotate(-90)" font-size="83" style="fill:rgb(49, 103, 142)">Hilfe</text>
-<text transform="translate(379,526)" font-size="60" style="fill:rgb(51, 98, 141)">Zuhören</text>
-<text transform="translate(139,516)" font-size="33" style="fill:rgb(226, 228, 24)">Begleitung</text>
-<text transform="translate(503,555)" font-size="33" style="fill:rgb(48, 105, 142)">Hoffnung</text>
-<text transform="translate(141,600)" font-size="33" style="fill:rgb(50, 100, 142)">Besuch</text>
-<text transform="translate(553,488)" font-size="18" style="fill:rgb(170, 220, 50)">Unterstützung</text>
-<text transform="translate(362,465)" font-size="18" style="fill:rgb(110, 206, 88)">Geschwister</text>
-<text transform="translate(391,648)" font-size="18" style="fill:rgb(213, 226, 26)">Tragen</text>
-<text transform="translate(498,445) rotate(-90)" font-size="18" style="fill:rgb(43, 117, 142)">Last</text>
-<text transform="translate(183,553)" font-size="18" style="fill:rgb(45, 178, 125)">Kämpfe</text>
-<text transform="translate(395,482)" font-size="18" style="fill:rgb(70, 192, 111)">Nöte</text>
-<text transform="translate(381,449)" font-size="18" style="fill:rgb(68, 2, 86)">Kreuz</text>
+<style>text{font-family:'Droid Sans Mono';font-weight:normal;font-style:normal;}</style>
+<text transform="translate(322,563)" font-size="84" style="fill:rgb(72, 20, 103)">Gebet</text>
+<text transform="translate(400,818) rotate(-90)" font-size="84" style="fill:rgb(162, 218, 55)">Hilfe</text>
+<text transform="translate(120,606)" font-size="55" style="fill:rgb(70, 11, 94)">Zuhören</text>
+<text transform="translate(126,554)" font-size="33" style="fill:rgb(31, 148, 140)">Begleitung</text>
+<text transform="translate(164,518)" font-size="33" style="fill:rgb(53, 183, 121)">Hoffnung</text>
+<text transform="translate(444,490) rotate(-90)" font-size="33" style="fill:rgb(52, 182, 121)">Besuch</text>
+<text transform="translate(433,850) rotate(-90)" font-size="33" style="fill:rgb(32, 147, 140)">Unterstützung</text>
+<text transform="translate(509,503)" font-size="27" style="fill:rgb(70, 7, 90)">Geschwister</text>
+<text transform="translate(456,806) rotate(-90)" font-size="27" style="fill:rgb(71, 44, 122)">Gemeinschaft</text>
+<text transform="translate(584,535)" font-size="27" style="fill:rgb(70, 7, 90)">Tragen</text>
+<text transform="translate(594,563)" font-size="27" style="fill:rgb(30, 155, 138)">Last</text>
+<text transform="translate(478,507) rotate(-90)" font-size="27" style="fill:rgb(197, 224, 33)">Kämpfe</text>
+<text transform="translate(404,588)" font-size="27" style="fill:rgb(69, 53, 129)">Nöte</text>
+<text transform="translate(404,447) rotate(-90)" font-size="27" style="fill:rgb(99, 203, 95)">Kreuz</text>
 </svg>

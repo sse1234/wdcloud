@@ -17,8 +17,7 @@ text = open(path.join(d, 'bsh.txt')).read()
 wordcloud = WordCloud(
     background_color=None, 
     mode="RGBA", 
-    mask=mask,
-    font_path="/System/Library/Fonts/Supplemental/Andale Mono.ttf"  # or your preferred font
+    mask=mask
 ).generate(text)
 
 # Save as SVG
